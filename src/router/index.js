@@ -23,7 +23,7 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: ()=> import ('../views/plupload.vue') 
+    component: ()=> import ('../views/canvas_yanzhengma.vue') 
   },
 ]
 
